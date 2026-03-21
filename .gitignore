@@ -1,7 +1,28 @@
+# Legacy Jekyll artifacts
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 Gemfile.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# MkDocs
+site/
+.cache/
+
+# Local environment files
 **/.env*
