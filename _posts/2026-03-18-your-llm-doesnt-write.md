@@ -1,9 +1,10 @@
 ---
-layout: page
+date: 2026-03-18
 title: Your LLM Doesn't Write Correct Code. It Writes Plausible Code
+tags:
+  - AI
+  - Coding
 ---
-
-# Your LLM Doesn't Write Correct Code. It Writes Plausible Code.
 
 I've took the liberty to reuse the title of a [substack post](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code). It is a great post and you should have a read, although it addresses something completely different than the post above.
 

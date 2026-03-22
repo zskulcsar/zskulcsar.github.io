@@ -12,7 +12,7 @@ help: ## List available make targets with descriptions.
 
 ## Development targets
 clean: ## Remove generated site output.
-	rm -rf site
+	rm -rf _site
 
 build: ## Build the static site into ./site.
 	bundle exec jekyll build
