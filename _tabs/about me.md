@@ -10,11 +10,11 @@ Senior hands-on engineer with experience across software engineering, platform e
 
 ## Core Skills
 
-- Cloud and platform engineering: AWS, Kubernetes, Terraform, CloudFormation, Infrastructure as Code, platform architecture
-- DevOps and delivery: CI/CD, deployment automation, environment provisioning, observability, release engineering, developer enablement
-- Security engineering: IAM, endpoint security, vendor management, governance, risk management, security operations, ISO/IEC 27001, NIST CSF
-- Software and automation: Python, Bash, Java, automation tooling, systems integration, technical design
-- Leadership and execution: technical ownership, architecture input, cross-functional delivery, stakeholder management, mentoring
+- **Cloud and platform engineering:** AWS, Kubernetes, Terraform, CloudFormation, Infrastructure as Code, platform architecture
+- **DevOps and delivery:** CI/CD, deployment automation, environment provisioning, observability, release engineering, developer enablement
+- **Security engineering:** IAM, endpoint security, vendor management, governance, risk management, security operations, ISO/IEC 27001, NIST CSF
+- **Software and automation:** Python, Bash, Java, automation tooling, systems integration, technical design
+- **Leadership and execution:** technical ownership, architecture input, cross-functional delivery, stakeholder management, mentoring
 
 ## Selected Achievements
 
