@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Your LLM Doesn't Write Correct Code. It Writes Plausible Code."
-date:   2026-03-18 13:12:49 +0000
-categories: LLM
+layout: page
+title: Your LLM Doesn't Write Correct Code. It Writes Plausible Code
 ---
 
 # Your LLM Doesn't Write Correct Code. It Writes Plausible Code.
