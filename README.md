@@ -1,6 +1,6 @@
 # zskulcsar.github.io
 
-Personal tech blog scaffolded with MkDocs and intended for GitHub Pages.
+Personal tech blog built with Jekyll and intended for GitHub Pages.
 
 ## Local development
 
@@ -25,4 +25,4 @@ make build
 make deploy
 ```
 
-This uses `mkdocs gh-deploy`, which publishes the generated site to the `gh-pages` branch.
+This uses Jekyll build and GitHub Pages deployment, which publishes the generated site to the `gh-pages` branch.
