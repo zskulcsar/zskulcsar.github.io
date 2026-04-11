@@ -68,7 +68,7 @@ So, on 2nd of April I spun up Codex and started to AI Engineer my way into this 
 
 ## My conclusion?
 
-Not much.
+Not much, based on the limited number of projects I used.
 
 * Clearly, **AI assisted coding is significantly faster**.  
   At least an order of magnitude faster, i.e. one more zero at the end. Some projects even show a two-order-of-magnitude increase, but I would treat those numbers with caution. That may point to the worst kind of vibe-coding, or simply to code generated without much professional oversight and due care. Or maybe those people just have more time on their hands. I might be completely wrong here.[^fn-nth-2]
