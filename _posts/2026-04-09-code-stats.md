@@ -10,7 +10,7 @@ categories:
   - Code Analysis
 ---
 
-**TL;DR:** I built a small project in a few days to compare code metrics across AI-assisted and non-AI-assisted open-source projects. You can explore it at [shibuyaltd.co.uk/code-stats](https://shibuyaltd.co.uk/code-stats){:target="_blank"}.
+**TL;DR:** I built a small project in a few days to compare code metrics across AI-assisted and non-AI-assisted open-source projects. You can explore it at [csq.shibuyaltd.co.uk](https://csq.shibuyaltd.co.uk/){:target="_blank"}.
 
 ## Preamble
 
@@ -64,7 +64,7 @@ That's not good. That is really not good.
 
 ## Where did we end up?
 
-So, on 2nd of April I spun up Codex and started to AI Engineer my way into this madness: **to compare apples-to-apples based on real data**. You can see the result at [shibuyaltd.co.uk/code-stats](https://shibuyaltd.co.uk/code-stats){:target="_blank"}. Feel free to play and draw your own conclusions.[^footnote]
+So, on 2nd of April I spun up Codex and started to AI Engineer my way into this madness: **to compare apples-to-apples based on real data**. You can see the result at [csq.shibuyaltd.co.uk](https://csq.shibuyaltd.co.uk/){:target="_blank"}. Feel free to play and draw your own conclusions.[^footnote]
 
 ## My conclusion?
 
