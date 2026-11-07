@@ -11,7 +11,7 @@ categories:
   - AI Assisted Engineering
 ---
 
-I've read a blog titled [Writing as a thinking tool](muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) that kept me thinking.
+I've read a blog titled [Writing as a thinking tool](https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) that kept me thinking.
 
 At some point in my software engineer career I started to write READMEs and documentation. Generally developers don't like to type out long texts (the irony ...) but I realised that it helps me to create better software. First, I have to understand what the software does, then I have to put it into words. Also, when thinking about how to write what I know, kept realising how stupid the implementation is.
 It's painful as I have to go back and change the implementation so that it doesn't sound that stupid anymore, but over time I learned to love the process. There is satisfaction in reviewing your own code, poking holes and seeing it getting better.
@@ -26,4 +26,4 @@ But perhaps there is a third approach: what if we enforce the developer to write
 
 There are many ways to cheat (wrong answers only), but maybe there is something here, assuming we want engineers to understand what they are working with.
 
-But perhaps that is the whole point. If [PDD](/tags/PDD/) can be done by anyone, but productionising still needs engineers, then surely these engineers need to understand the system otherwise what is the point of having them?
+But perhaps that is the whole point. If [PDD](/tags/pdd/) can be done by anyone, but productionising still needs engineers, then surely these engineers need to understand the system otherwise what is the point of having them?
